@@ -23,3 +23,13 @@ if [ ${str1} = "test" ]; then
 else
     echo "str1 is not test"
 fi
+
+# -eq: equal
+# -ne: not equal
+# -gt: greater than
+# -lt: less than
+# -ge: greater thann or equal to
+# -le: less than or equal to
+# !: 부정 (not)
+# -a: AND
+# -o: OR
